@@ -3,6 +3,20 @@
 
 Details about how to navigate the topic modelling results can be found on the [dfr-browser](http://agoldst.github.io/dfr-browser/) project page.
 
+## Screenshots
+
+View all the topics:
+<a href="https://cbdavis.github.io/NIPS-2018-topic-modelling/topic-modelling-visualization/index.html#" target="_blank"><img src="https://github.com/cbdavis/NIPS-2018-topic-modelling/raw/master/images/TopicCircles.png"></a>
+
+View all papers within a specific topic:
+<img src="https://github.com/cbdavis/NIPS-2018-topic-modelling/raw/master/images/Topic36.png">
+
+View all topics where the word *"gaussian"* is prominent:
+<img src="https://github.com/cbdavis/NIPS-2018-topic-modelling/raw/master/images/GaussianTopics.png">
+
+View a single paper, with a link to the original online version:
+<img src="https://github.com/cbdavis/NIPS-2018-topic-modelling/raw/master/images/SinglePaper.png">
+
 ## Known Issues
 Some presentations may show up twice.  In these cases, there was likely both an oral presentation and a poster presentation on the same material.
 
